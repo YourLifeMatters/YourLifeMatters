@@ -12,7 +12,7 @@
 
 ### `> hamburger@imbadatthis:~# Childhood Script Dump (2013 - 2024)`
 
-> **"Joy Baiting Programmer"** & **Web Application Security**
+> **"Joy Baiting Programmer"** & **Web Application Security** & **I Suck At This**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0f" alt="Python" />
