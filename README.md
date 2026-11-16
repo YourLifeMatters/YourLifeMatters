@@ -47,9 +47,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YourLifeMatters&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&ring_color=00ff66" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourLifeMatters&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff66&text_color=c9d1d9" alt="top langs" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourLifeMatters&background=0a0a0f&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourLifeMatters&bg_color=0a0a0f&color=00ff66&line=00ff66&point=ffffff&area=true&area_color=00ff66&hide_border=true" alt="activity graph" width="100%" />
