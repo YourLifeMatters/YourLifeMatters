@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-![GitHub Stats](https://ghstats.dev)
+![YourLifeMatters's GitHub stats](https://ghstats.dev)
 </div>
