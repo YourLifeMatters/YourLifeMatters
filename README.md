@@ -10,7 +10,7 @@
 
 ---
 
-### `> hamburger@imbadatthis:~# echo hamburger`
+### `> hamburger@imbadatthis:~# Childhood Script Dump`
 
 > **"Joy Baiting Programmer"** & **Web Application Security**
 
