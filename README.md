@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b1a,100:00ff66&height=220&section=header&text=M&fontSize=70&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=Joy%20Baiting%20Programmer%20%7C%20Web%20App%20Security&descAlignY=58&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b1a,100:00ff66&height=220&section=header&text=M&fontSize=70&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=Joy%20Baiting%20Programmer%20%7C%20Web%20App%20Security%20%7C%20I%20Suck%20At%20This&descAlignY=58&descSize=18" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=680&height=50&lines=YOU+MATTER;YOU'RE+AWESOME;YOU'RE+PERFECT+%E2%9A%A1" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ### `> hamburger@imbadatthis:~# Childhood Script Dump (2013 - 2024)`
 
-> **"Joy Baiting Programmer"** & **Web Application Security** & **I Suck At This**
+> **"Joy Baiting Programmer"** & **Web Application Security**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0f" alt="Python" />
