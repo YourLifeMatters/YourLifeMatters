@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=680&height=50&lines=YOU+MATTER;YOU'RE+AWESOME;YOU'RE+PERFECT+%E2%9A%A1" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=SYSTEM+ACCESSES&color=00ff66&style=for-the-badge&labelColor=0a0a0f" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=YourLifeMatters&label=SYSTEM+ACCESSES&color=00ff66&style=for-the-badge&labelColor=0a0a0f" alt="views" />
 
 </div>
 
